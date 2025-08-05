@@ -1,0 +1,12 @@
+[project]
+name = "ejercicios_python"
+version = "1.0.0"
+description = "Ejercicios del bloque 2 y bloque 3 desarrollados en Python"
+authors = [
+  { name = "Juan Camilo Martínez", email = "camilo1925martinez@gmail.com" }
+]
+license = "MIT"
+requires-python = ">=3.10"
+
+[tool.pdm]
+package-type = "application"

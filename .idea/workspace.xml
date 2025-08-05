@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15997198-611b-494a-ac98-a55d87e45cc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Taller_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +71,7 @@
       <workItem from="1754070701653" duration="5000" />
       <workItem from="1754071127541" duration="5633000" />
       <workItem from="1754325461144" duration="1595000" />
-      <workItem from="1754359159944" duration="3078000" />
+      <workItem from="1754359159944" duration="3879000" />
     </task>
     <servers />
   </component>
